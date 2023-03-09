@@ -27,7 +27,7 @@ main{
   display: flex;
   height: calc(100%-90px);
   background-color: #131922;
-  border: 1px solid red;
+  
 }
 .cta{
   position: fixed;
@@ -36,7 +36,7 @@ main{
   height:110px;
   width: calc(100% - 230px);
   background-color: #080B12;
-  border: 1px solid red;
+  
 }
 aside{
   width: 230px;
@@ -45,7 +45,7 @@ aside{
   background-color: black;
   color: white;
   padding-top: 30px;
-  border: 1px solid red;
+  
   
 }
 
@@ -78,7 +78,7 @@ aside .aside-menu ul{
   height: 100px;
   width: 100%;
   background-color: black;
-  border: 1px solid red;
+  
   color: white;
   display: flex;
   justify-content: space-between;
